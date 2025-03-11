@@ -26,7 +26,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace "io.studio93.gallary_saver"
+    namespace "carnegietechnologies.gallery_saver"
     compileSdkVersion 34 // Update to latest SDK version
 
     sourceSets {
